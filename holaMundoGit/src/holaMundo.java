@@ -13,5 +13,10 @@ public class holaMundo {
 	public String getNombre(String nom){
 		this nombre = nom;
 	}
+	
+	public void HolaMundo()
+	{
+		System.out.println("Hola Mundo");
+	}
 
 }
