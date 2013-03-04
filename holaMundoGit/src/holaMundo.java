@@ -10,10 +10,6 @@ public class holaMundo {
 		System.out.printf("Probando Probando");
 	}
 	
-	public String getNombre(String nom){
-		this nombre = nom;
-	}
-	
 	public void HolaMundo()
 	{
 		System.out.println("Hola Mundo"); //Hla mundo
